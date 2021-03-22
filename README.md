@@ -10,7 +10,7 @@
 8. Octal to Decimal Conversion
 9. Octal to Hexadecimal Conversion
 10. Hexadecimal to Binary Conversion
-11. Hexadecimal to Decimal Conversion (decimal point + without decimal point)
+11. Hexadecimal to Decimal Conversion &nbsp; (decimal point + without decimal point)
 12. Hexadecimal to Octal Conversion
 13. ASCII to Character Conversion
 14. Character to ASCII Conversion
