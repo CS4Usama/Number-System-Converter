@@ -1,4 +1,4 @@
-# Number System Conversions ┇ C++ Project
+# Number System Converter ┇ C++ Project
 #### Conversions-Features:>
 1. Binary to Decimal Conversion
 2. Binary to Octal Conversion
